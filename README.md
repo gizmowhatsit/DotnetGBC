@@ -18,6 +18,7 @@ The Game Boy Pandocs - https://gbdev.io/pandocs/
 gbops (Opcode table) - https://izik1.github.io/gbops/
 
 Various Game Boy test roms can be found here: https://github.com/c-sp/game-boy-test-roms
+
 (I primarily focused on the Blargg roms (https://github.com/retrio/gb-test-roms)
 
 <img src="./img/dngbc_tetris.png" />
