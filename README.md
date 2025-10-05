@@ -6,8 +6,7 @@ Game Boy functionality is mostly complete.  Cartridges with no memory mapper or 
 
 Sound is working, although may desync over time with some games.  YMMV.
 
-Default controls are set up via SDL2's input system and assumes the presence of an Xinput gamepad.
-There is a basic control rebinding system in place, but there is no GUI available for it at this time.
+Default controls are set up via SDL2's input system and currently assume the presence of an Xinput gamepad.  There is a basic control rebinding system in place, but there is no GUI available for it at this time.
 
 Current Blargg ROM test results are listed in the tests_status.ods spreadsheet.
 
