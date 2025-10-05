@@ -14,7 +14,9 @@ Current Blargg ROM test results are listed in the tests_status.ods spreadsheet.
 Game Boy Color graphical rendering is not currently functional, but GBC roms do load and run.  If I pick this project back up again, this will be the first thing I try to fix, as I expect a fresh set of eyes would be able to find this issue quickly.
 
 The primary resources used were:
-The Game Boy Pandocs - https://gbdev.io/pandocs/ 
+
+The Game Boy Pandocs - https://gbdev.io/pandocs/
+ 
 gbops (Opcode table) - https://izik1.github.io/gbops/
 
 Various Game Boy test roms can be found here: https://github.com/c-sp/game-boy-test-roms
